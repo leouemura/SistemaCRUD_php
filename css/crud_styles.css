@@ -1,0 +1,36 @@
+.newUser{
+    margin: 43%;
+    padding: 5px 10px;
+    font-size: 18px;
+    outline: none;
+    border: none;
+    color: #595959;
+    background: #9aff81;
+    border-radius: 25px;
+    box-shadow:  2px  2px  5px#beccba,
+                -5px -5px 10px #ffffff73;
+}
+
+.newUser:hover{
+    color: #000000;
+    box-shadow: inset 2px 2px 5px#b8faa7,
+                inset -5px -5px 10px #00ca0083;
+}
+
+.userTable{
+    margin-top: 20px;
+    padding: 0px 20%;
+}
+
+.table{
+    width: 100%;
+    padding: 10px;
+    border-radius: 25px;
+    box-shadow:  2px  2px  5px #babecc,
+                -5px -5px 10px #ffffff73;
+
+}
+
+th{
+    text-align: justify;
+}
